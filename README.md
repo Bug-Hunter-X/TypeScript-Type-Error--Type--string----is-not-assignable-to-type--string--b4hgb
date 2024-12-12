@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error and its solution. The error occurs when a function expecting a string argument is provided with an array of strings. The solution involves type checking and potentially refactoring the function to handle arrays.
